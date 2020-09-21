@@ -1,0 +1,160 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "dress",
+      "image": "dress1.jpg",
+      "name": "Luire",
+      "price": 94.95,
+      "skus": [
+        {
+          "sku": "17",
+          "size": "S"
+        },
+        {
+          "sku": "18",
+          "size": "M"
+        },
+        {
+          "sku": "19",
+          "size": "L"
+        },
+        {
+          "sku": "20",
+          "size": "XL"
+        }
+      ],
+      "description": "Monochrome dress for elegant look."
+    },
+    {
+      "id": 2,
+      "category": "dress",
+      "image": "dress2.jpg",
+      "name": "Melisa",
+      "price": 78.99,
+      "skus": [
+        {
+          "sku": "17",
+          "size": "S"
+        },
+        {
+          "sku": "18",
+          "size": "M"
+        },
+        {
+          "sku": "20",
+          "size": "XL"
+        }
+      ],
+      "description": "Mini dress with overlap ruffles tiered dress."
+    },
+    {
+      "id": 3,
+      "category": "dress",
+      "image": "dress3.jpg",
+      "name": "Lauren",
+      "price": 145.95,
+      "skus": [
+        {
+          "sku": "17",
+          "size": "S"
+        },
+        {
+          "sku": "19",
+          "size": "L"
+        },
+        {
+          "sku": "20",
+          "size": "XL"
+        }
+      ],
+      "description": "Look stylish with puff sleeve surplice dress."
+    },
+    {
+      "id": 4,
+      "category": "dress",
+      "image": "dress4.jpg",
+      "name": "Monica",
+      "price": 145.95,
+      "skus": [
+        {
+          "sku": "17",
+          "size": "S"
+        },
+        {
+          "sku": "18",
+          "size": "M"
+        },
+        {
+          "sku": "19",
+          "size": "L"
+        }
+      ],
+      "description": "Flare wrap mini dress."
+    },
+    {
+      "id": 5,
+      "category": "dress",
+      "image": "dress5.jpg",
+      "name": "Agatha",
+      "price": 145.95,
+      "skus": [
+        {
+          "sku": "18",
+          "size": "M"
+        },
+        {
+          "sku": "19",
+          "size": "L"
+        },
+        {
+          "sku": "20",
+          "size": "XL"
+        }
+      ],
+      "description": "Layered ruffle skater dress."
+    }
+  ],
+  "shippingAddress": [
+    {
+      "id": 1,
+      "city": "",
+      "country": ""
+    },
+    {
+      "city": "vzfd",
+      "country": "USA",
+      "id": 2
+    },
+    {
+      "city": "w",
+      "country": "United Kingdom",
+      "id": 3
+    },
+    {
+      "city": "sdwqerew",
+      "country": "China",
+      "id": 4
+    },
+    {
+      "city": "retre",
+      "country": "China",
+      "id": 5
+    },
+    {
+      "city": "vzfd",
+      "country": "India",
+      "id": 6
+    },
+    {
+      "city": "Bali",
+      "country": "India",
+      "id": 7
+    },
+    {
+      "city": "Bali",
+      "country": "Australia",
+      "id": 8
+    }
+  ]
+}
